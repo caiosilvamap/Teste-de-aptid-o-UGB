@@ -1,0 +1,31 @@
+﻿@model SolicitacaoDeMateriais.ViewModels.DepartmentViewModel
+
+
+<div class="container p-5">
+
+    <form asp-controller="Department" asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <a class="bi bi-arrow-bar-left" style="font-size:40px; color:blue" asp-controller="Department" asp-action="Index" role="button"></a>
+        </div>
+
+        <div class="row mb-3 g-5">
+            <div class="form-header">
+                <div class="title">
+                    <h1>Excluir Departamento</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-3 g-5">
+
+            <p> Tem certeza que deseja Excluir @ViewBag.DepartmentName ?</p>
+
+            <div>
+                <button type="submit" class="btn btn-md btn-primary">Excluir</button>
+            </div>
+
+        </div>
+
+    </form>
+</div>

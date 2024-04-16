@@ -1,0 +1,91 @@
+﻿@model SolicitacaoDeMateriais.ViewModels.ProductViewModel
+
+
+<div class="container p-5">
+
+    <form asp-controller="Product" asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <a class="bi bi-arrow-bar-left" style="font-size:40px; color:blue" asp-controller="Product" asp-action="Index" role="button"></a>
+        </div>
+
+        <div class="row mb-3 g-5">
+            <div class="form-header">
+                <div class="title">
+                    <h1>Editar Produto</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-3 g-5">
+            <div class="col-12 mb-2">
+                <label for="Nome" class="col-form-label col-form-label-lg">Nome</label>
+                <input type="text" id="nome" asp-for="Name" class="form-control form-control-lg" placeholder="Digite o Nome do Produto" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Código EAN</label>
+                <input id="registration" type="text" asp-for="EANcode" class="form-control" placeholder="Digite o Código EAN (GTIN)" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Fabricante</label>
+                <input id="registration" type="text" asp-for="Manufacturer" class="form-control" placeholder="Digite o Fabricante" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Preço Unitário</label>
+                <input id="registration" type="number" asp-for="UnitPrice" class="form-control" placeholder="Digite o Preço Unitário" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Cota Mínima em Estoque</label>
+                <input id="registration" type="number" asp-for="MinimumStock" class="form-control" placeholder="Digite a Cota Mínima em Estoque" required>
+            </div>
+
+            <div class="col-3 mb-2">
+                <label for="DepartmentId" class="col-form-label col-form-label-lg">Fornecedor</label>
+                <select id="department" class="form-select" asp-for="SupplierId" asp-items="@(new SelectList(ViewBag.supplier, "Id", "Name" ))" required><option></option></select>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-md btn-primary">Editar</button>
+            </div>
+
+        </div>
+
+    </form>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        (() => {
+            'use strict'
+
+            const forms = document.querySelectorAll('.needs-validation')
+
+            Array.from(forms).forEach(form => {
+                form.addEventListener('submit', event => {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })
+
+        $(document).ready(function () {
+            $('#department').select2({
+                placeholder: "Seleciona uma Opção",
+                allowClear: true
+            });
+        });
+
+
+    </script>
+
+}

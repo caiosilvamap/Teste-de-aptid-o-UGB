@@ -1,0 +1,82 @@
+﻿@model SolicitacaoDeMateriais.ViewModels.UserViewModel
+
+
+<div class="container p-5">
+
+    <form asp-controller="User" asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <a class="bi bi-arrow-bar-left" style="font-size:40px; color:blue" asp-controller="User" asp-action="Index" role="button"></a>
+        </div>
+
+        <div class="row mb-3 g-5">
+            <div class="form-header">
+                <div class="title">
+                    <h1>Editar Usuário</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-3 g-5">
+
+            <div class="col-12 mb-2">
+                <label for="Nome" class="col-form-label col-form-label-lg">Nome</label>
+                <input type="text" id="nome" asp-for="Name" class="form-control form-control-lg" placeholder="Digite o Nome do Usuário" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Matrícula</label>
+                <input id="registration" type="text" asp-for="Registration" class="form-control" placeholder="Digite a matrícula do Usuário" required>
+            </div>
+
+            <div class="col-3 mb-2">
+                <label for="DepartmentId" class="col-form-label col-form-label-lg">Gerência</label>
+                <select id="department" class="form-select" asp-for="DepartmentId" asp-items="@(new SelectList(ViewBag.department, "Id", "Name" ))" required><option></option></select>
+            </div>
+
+            <div class="form-check form-switch mb-3">
+                <input class="form-check-input" type="checkbox" asp-for="Active" >
+                <label class="form-check-label" for="active">Ativo</label>
+            </div>
+
+
+            <div>
+                <button type="submit" class="btn btn-md btn-primary">Editar</button>
+            </div>
+
+        </div>
+
+    </form>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        (() => {
+            'use strict'
+
+            const forms = document.querySelectorAll('.needs-validation')
+
+            Array.from(forms).forEach(form => {
+                form.addEventListener('submit', event => {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })
+
+        $(document).ready(function () {
+            $('#department').select2({
+                placeholder: "Seleciona uma Opção",
+                allowClear: true
+            });
+        });
+
+    </script>
+
+}

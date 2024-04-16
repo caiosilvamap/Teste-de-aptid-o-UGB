@@ -1,0 +1,83 @@
+﻿@using SolicitacaoDeMateriais.ViewModels;
+
+@model List<RequestProductServiceDisplayViewModel>
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h5 class="m-2 p-2 font-weight-bold text-primary text-center">Pedido Interno de Aquisição de Materiais Ou Serviços</h5>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">             
+                <div class="col-md-6 btn-group gap-2 text-start" role=group>
+                    <a asp-controller="RequestProductService" asp-action="CreateRequestProductView" role="button" class="btn btn-primary rounded" type="button">Solicitar Produto</a>
+                    <a asp-controller="RequestProductService" asp-action="CreateRequestServiceView" role="button" class="btn btn-success rounded" type="button">Solicitar Serviço</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="input-group text-end">
+                        <input type="search" id="search" class="form-control form-control-sm" placeholder="Pesquisa...">
+                        <button id="searchButton" class="btn btn-primary" type="button">Pesquisar</button>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover" id="dataTable">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Id</th>
+                            <th>Código</th>
+                            <th>EAN</th>
+                            <th>Produto</th>
+                            <th>Quantidade</th>
+                            <th>Fabricante</th>
+                            <th>Serviço</th>
+                            <th>Observação</th>
+                            <th>Fornecedor</th>
+                            <th>Departamento Solicitante</th>
+                            <th>Usuário Solicitante</th>
+                            <th>Data de Cadastro</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (RequestProductServiceDisplayViewModel request in Model)
+                            {
+                                <tr>
+                                    <td>@request.Id</td>
+                                    <td>@request.RequestCode</td>
+                                    <td>@request.ProductEANcode</td>
+                                    <td>@request.ProductName</td>
+                                    <td>@request.ProductQuantity</td>
+                                    <td>@request.ProductManufacturer</td>
+                                    <td>@request.ServiceName</td>
+                                    <td>@request.Observation</td>
+                                    <td>@request.ServiceSupplier</td>
+                                    <td>@request.DepartmentName</td>
+                                    <td>@request.UserName</td>
+                                    <td>@request.CreationDate</td>
+                                    <td>
+                                        <div class="btn-group gap-2" role="group">
+                                            <a role="button" class="bi bi-pencil-square" style="font-size:17px; color:blue" asp-route-id="@request.Id" asp-controller="RequestProductService" asp-action="@(request.ProductName != null ? "EditRequestProductView" : "EditRequestServiceView")"></a>
+                                            <a role="button" class="bi bi-trash3" data-toggle="modal" data-target="#exampleModalCenter" style="font-size:17px; color:blue" asp-route-id="@request.Id" asp-controller="RequestProductService" asp-action="DeleteView"></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+

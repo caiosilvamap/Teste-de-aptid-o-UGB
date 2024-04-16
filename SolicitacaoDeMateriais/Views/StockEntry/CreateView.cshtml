@@ -1,0 +1,81 @@
+﻿@model SolicitacaoDeMateriais.ViewModels.StockEntryViewModel
+
+
+<div class="container p-5">
+
+    <form asp-controller="StockEntry" asp-action="Create" method="post">
+
+        <div class="mb-3">
+            <a class="bi bi-arrow-bar-left" style="font-size:40px; color:blue" asp-controller="StockEntry" asp-action="Index" role="button"></a>
+        </div>
+
+        <div class="row mb-3 g-5">
+            <div class="form-header">
+                <div class="title">
+                    <h1>Adicionar Entrada de Produto</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-3 g-5">
+
+            <div class="col-3 mb-2">
+                <label for="product" class="col-form-label col-form-label-lg">Produto</label>
+                <select id="product" class="form-select" asp-for="ProductId" asp-items="@(new SelectList(ViewBag.product, "Id", "Name" ))" required><option></option></select>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="nf" class="col-form-label col-form-label-lg">Nota Fiscal</label>
+                <input id="nf" type="number" asp-for="NF" class="form-control" placeholder="Digite a Nota Fiscal" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="quantity" class="col-form-label col-form-label-lg">Quantidade</label>
+                <input id="quantity" type="number" asp-for="Quantity" class="form-control" placeholder="Digite a Quantidade de Entrada" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="StorageStock" class="col-form-label col-form-label-lg">Depósito</label>
+                <input id="StorageStock" type="text" asp-for="StorageStock" class="form-control" placeholder="Digite o Depósito de Armazenamento" required>
+            </div>         
+
+            <div>
+                <button type="submit" class="btn btn-md btn-primary">Adicionar</button>
+            </div>
+
+        </div>
+
+    </form>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        (() => {
+            'use strict'
+
+            const forms = document.querySelectorAll('.needs-validation')
+
+            Array.from(forms).forEach(form => {
+                form.addEventListener('submit', event => {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })
+
+        $(document).ready(function () {
+            $('#product').select2({
+                placeholder: "Seleciona uma Opção",
+                allowClear: true
+            });
+        });
+
+    </script>
+
+}

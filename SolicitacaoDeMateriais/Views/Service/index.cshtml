@@ -1,0 +1,76 @@
+﻿@using SolicitacaoDeMateriais.ViewModels;
+
+@model List<ServiceDisplayViewModel>
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h5 class="m-2 p-2 font-weight-bold text-primary text-center">Serviços</h5>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">
+                <div class="col-md-6 btn-group gap-2 text-start" role=group>
+                    <a asp-controller="Service" asp-action="CreateView" role="button" class="btn btn-primary rounded" type="button">Adiconar</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="input-group text-end">
+                        <input type="search" id="search" class="form-control form-control-sm" placeholder="Pesquisa...">
+                        <button id="searchButton" class="btn btn-primary" type="button">Pesquisar</button>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover" id="dataTable">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Id</th>
+
+                            <th>Nome</th>
+
+                            <th>Descrição do Serviço</th>
+
+                            <th>Prazo de Entrega</th>
+
+                            <th>Fornecedor</th>
+
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+
+                            foreach (ServiceDisplayViewModel service in Model)
+                            {
+                                <tr class="odd">
+                                    <th scope="row">@service.Id</th>
+                                    <td class="sorting_1">@service.Name</td>
+                                    <td class="sorting_1">@service.Description</td>
+                                    <td class="sorting_1">@service.Deadline</td>
+                                    <td class="sorting_1">@service.SupplierName</td>
+                                    <td class="sorting_1">
+                                        <div class="btn">
+                                            <a role="button" class="bi bi-pencil-square" style="font-size:17px; color:blue" asp-route-id="@service.Id" asp-controller="Service" asp-action="EditView"></a>
+                                        </div>
+                                        <div class="btn">
+                                            <a role="button" class="bi bi-trash3" data-toggle="modal" data-target="#exampleModalCenter" style="font-size:17px; color:blue" asp-route-id="@service.Id" asp-controller="Service" asp-action="DeleteView"></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

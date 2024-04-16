@@ -1,0 +1,1465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\solicitacaodemateriais.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\solicitacaodemateriais.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockexit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockexit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\supplier\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\supplier\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\supplier\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\supplier\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\user\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\user\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\user\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\user\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\user\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\user\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\stockexitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\stockexitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\createrequestproductview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\createrequestproductview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\wwwroot\\js\\tablefilter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\wwwroot\\js\\tablefilter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\interfacesrepository\\istockexitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\interfacesrepository\\istockexitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\requestproductservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\requestproductservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\stockentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\stockentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockentry\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockentry\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\automapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\automapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\stockentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\stockentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\interfacesrepository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\interfacesrepository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\interfacesrepository\\istockentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\interfacesrepository\\istockentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\stockentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\stockentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\stockviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\stockviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockexit\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockexit\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockexit\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockexit\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\product\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\product\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\product\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\product\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\product\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\product\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockentry\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockentry\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\stockentry\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\stockentry\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\stockentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\stockentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\requestproductservicedisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\requestproductservicedisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\servicedisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\servicedisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\supplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\supplierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\serviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\serviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\createrequestserviceview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\createrequestserviceview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\stockexitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\stockexitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\department\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\department\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\department\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\department\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\department\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\department\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\editrequestserviceview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\editrequestserviceview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\editrequestproductview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\editrequestproductview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\requestproductserviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\requestproductserviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\productdisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\productdisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\service\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\service\\editview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\service\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\service\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\service\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\service\\deleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\requestproductservice\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\requestproductservice\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\requestproductservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\requestproductservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\requestproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\requestproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\viewmodels\\userdisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\viewmodels\\userdisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\infra\\repository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\infra\\repository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\service\\deleteview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\service\\deleteview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\service\\createview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\service\\createview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\supplier\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\supplier\\createview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|c:\\users\\caios\\desktop\\solicitacaodemateriais\\solicitacaodemateriais\\views\\user\\editview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D122616-BF6D-4CF9-A99B-71B0E9814E14}|SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj|solutionrelative:solicitacaodemateriais\\views\\user\\editview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolicitacaoDeMateriais",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\SolicitacaoDeMateriais.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T19:08:12.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockEntry\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockEntry\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T23:27:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwE4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:25:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T04:03:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockExit\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockExit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockExit\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockExit\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T00:47:32.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:38:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T05:39:58.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockExitController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\StockExitController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\StockExitController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\StockExitController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\StockExitController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwKIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:37:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:05:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\User\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\User\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:05:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\User\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\User\\CreateView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:50:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Supplier\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Supplier\\EditView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:04:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Supplier\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Supplier\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:06:11.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestProductServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\RequestProductServiceController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\RequestProductServiceController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\RequestProductServiceController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\RequestProductServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:24:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Service\\index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Service\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T20:03:22.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tableFilter.js",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\wwwroot\\js\\tableFilter.js",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\wwwroot\\js\\tableFilter.js",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\wwwroot\\js\\tableFilter.js",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\wwwroot\\js\\tableFilter.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T18:27:56.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T18:41:05.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T18:41:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAvwHAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:49:20.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StockEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\StockEntryController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\StockEntryController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\StockEntryController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\StockEntryController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAASwF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T04:39:41.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateRequestProductView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestProductView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestProductView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestProductView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestProductView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T23:53:22.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Product\\index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Product\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:10:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T18:25:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAD4v3QAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:50:32.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStockExitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockExitRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockExitRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockExitRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockExitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:13:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Data\\DataContext.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:35:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StockEntry.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\StockEntry.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\StockEntry.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\StockEntry.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\StockEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:54:56.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwHQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:33:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\AutoMapper\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\AutoMapper\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\AutoMapper\\AutoMapperConfig.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\AutoMapper\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:54:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:52:56.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\Repository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\Repository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:04:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockEntry\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockEntry\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T00:08:44.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:54:28.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\StockController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:46:35.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAvwFMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:26:31.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IStockEntryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockEntryRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockEntryRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockEntryRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockEntryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:12:31.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Product.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:55:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\InterfacesRepository\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:45:23.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:15:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:44:32.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StockViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\StockViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\StockViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\StockViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\StockViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:43:52.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:40:42.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StockEntryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\StockEntryRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\StockEntryRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\StockEntryRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\StockEntryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:11:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockExit\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockExit\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockExit\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockExit\\EditView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T00:48:33.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Department.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:56:01.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:12:19.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Product\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Product\\CreateView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:16:16.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Product\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Product\\EditView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:21:45.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Product\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Product\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Product\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:23:43.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StockEntryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\StockEntryViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\StockEntryViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\StockEntryViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\StockEntryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:12:53.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockExit\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockExit\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockExit\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockExit\\CreateView.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T00:48:03.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockEntry\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockEntry\\EditView.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T00:07:47.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\StockEntry\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\StockEntry\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\StockEntry\\CreateView.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwEUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T00:02:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ServiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ServiceViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\ServiceViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ServiceViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\ServiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:23:02.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:23:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RequestProductServiceDisplayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceDisplayViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceDisplayViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceDisplayViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceDisplayViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:25:56.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ServiceDisplayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ServiceDisplayViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\ServiceDisplayViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ServiceDisplayViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\ServiceDisplayViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:23:45.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SupplierViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\SupplierViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\SupplierViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\SupplierViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\SupplierViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:56:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateRequestServiceView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestServiceView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestServiceView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestServiceView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\CreateRequestServiceView.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:54:17.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:36:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StockExitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\StockExitRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\StockExitRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\StockExitRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\StockExitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:14:52.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:16:20.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T23:36:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Department\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Department\\CreateView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T04:03:03.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Department\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Department\\EditView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T04:03:05.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RequestProductServiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\RequestProductServiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:42:55.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Department\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Department\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Department\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:43:42.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\User.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:42:14.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductDisplayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ProductDisplayViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\ProductDisplayViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ProductDisplayViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\ProductDisplayViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:46:42.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:11:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EditRequestProductView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestProductView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestProductView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestProductView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestProductView.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:23:10.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EditRequestServiceView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestServiceView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestServiceView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestServiceView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\EditRequestServiceView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:21:13.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DeleteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T20:14:43.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EditView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\EditView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Service\\EditView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\EditView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Service\\EditView.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T20:13:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T20:10:20.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "RequestProductServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\RequestProductServiceRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\RequestProductServiceRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\RequestProductServiceRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\RequestProductServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:34:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\RequestProductService\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\RequestProductService\\Privacy.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\RequestProductService\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:32:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:16:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RequestProductService.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\RequestProductService.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\RequestProductService.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\RequestProductService.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\RequestProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:28:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Service.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:19:54.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Models\\Supplier.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:50:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:42:19.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T23:36:46.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UserDisplayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\UserDisplayViewModel.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\ViewModels\\UserDisplayViewModel.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\ViewModels\\UserDisplayViewModel.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\ViewModels\\UserDisplayViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:23:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Infra\\Repository\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Infra\\Repository\\ServiceRepository.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Infra\\Repository\\ServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:26:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CreateView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\CreateView.cshtml",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Supplier\\CreateView.cshtml",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Supplier\\CreateView.cshtml",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Supplier\\CreateView.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:51:09.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "CreateView.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Service\\CreateView.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:16:03.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DeleteView.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\Service\\DeleteView.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:16:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EditView.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml.cs",
+              "RelativeDocumentMoniker": "SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml.cs",
+              "ToolTip": "C:\\Users\\caios\\Desktop\\SolicitacaoDeMateriais\\SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml.cs",
+              "RelativeToolTip": "SolicitacaoDeMateriais\\Views\\User\\EditView.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T22:32:36.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SolicitacaoDeMateriais
+build_property.RootNamespace = SolicitacaoDeMateriais
+build_property.ProjectDir = C:\Users\caios\Desktop\SolicitacaoDeMateriais\SolicitacaoDeMateriais\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\caios\Desktop\SolicitacaoDeMateriais\SolicitacaoDeMateriais
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Department/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Department/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Department/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Product/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Product/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Product/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Product/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/CreateRequestProductView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXENyZWF0ZVJlcXVlc3RQcm9kdWN0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/CreateRequestServiceView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXENyZWF0ZVJlcXVlc3RTZXJ2aWNlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXERlbGV0ZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/EditRequestProductView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXEVkaXRSZXF1ZXN0UHJvZHVjdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/EditRequestServiceView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXEVkaXRSZXF1ZXN0U2VydmljZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/RequestProductService/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFByb2R1Y3RTZXJ2aWNlXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Service/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxDcmVhdGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Service/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxEZWxldGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Service/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxFZGl0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Service/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockEntry/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFbnRyeVxDcmVhdGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockEntry/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFbnRyeVxEZWxldGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockEntry/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFbnRyeVxFZGl0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockEntry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFbnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockExit/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFeGl0XENyZWF0ZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockExit/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFeGl0XEVkaXRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/StockExit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tFeGl0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Stock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Supplier/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Supplier/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGVsZXRlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Supplier/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Supplier/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/User/CreateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/User/DeleteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/User/EditView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caios/Desktop/SolicitacaoDeMateriais/SolicitacaoDeMateriais/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4ita1yugw9

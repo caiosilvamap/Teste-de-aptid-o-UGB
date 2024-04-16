@@ -1,0 +1,72 @@
+﻿@using SolicitacaoDeMateriais.ViewModels;
+
+@model List<StockExitDisplayViewModel>
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h5 class="m-2 p-2 font-weight-bold text-primary text-center">Saída de Produtos</h5>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">
+                <div class="col-md-6 btn-group gap-2 text-start" role=group>
+                    <a asp-controller="StockExit" asp-action="CreateView" role="button" class="btn btn-primary rounded" type="button">Saída de Produto</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="input-group text-end">
+                        <input type="search" id="search" class="form-control form-control-sm" placeholder="Pesquisa...">
+                        <button id="searchButton" class="btn btn-primary" type="button">Pesquisar</button>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover" id="dataTable">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Id</th>
+                            <th>Código EAN</th>
+                            <th>Produto</th>
+                            <th>Fornecedor</th>
+                            <th>Usuário</th>
+                            <th>Departamento</th>
+                            <th>Qtd. Saída</th>
+                            <th>Data de Saída</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (StockExitDisplayViewModel stockExit in Model)
+                            {
+                                <tr>
+                                    <td>@stockExit.Id</td>
+                                    <td>@stockExit.ProductEANcode</td>
+                                    <td>@stockExit.ProductName</td>
+                                    <td>@stockExit.ProductSupplierName</td>
+                                    <td>@stockExit.UserName</td>
+                                    <td>@stockExit.DepartmentName</td>
+                                    <td>@stockExit.RequisitionQuantity</td>
+                                    <td>@stockExit.CreationDate</td>
+                                    <td>
+                                        <div class="btn-group gap-2" role="group">
+                                            <a role="button" class="bi bi-pencil-square" style="font-size:17px; color:blue" asp-route-id="@stockExit.Id" asp-controller="StockExit" asp-action="EditView"></a>                                          
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+

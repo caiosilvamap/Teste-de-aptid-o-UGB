@@ -1,0 +1,87 @@
+﻿@model SolicitacaoDeMateriais.ViewModels.SupplierViewModel
+
+
+<div class="container p-5">
+
+    <form asp-controller="Supplier" asp-action="Create" method="post">
+
+        <div class="mb-3">
+            <a class="bi bi-arrow-bar-left" style="font-size:40px; color:blue" asp-controller="Supplier" asp-action="Index" role="button"></a>
+        </div>
+
+        <div class="row mb-3 g-5">
+            <div class="form-header">
+                <div class="title">
+                    <h1>Cadastrar Fornecedor</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-3 g-5">
+
+            <div class="col-12 mb-2">
+                <label for="Nome" class="col-form-label col-form-label-lg">Nome</label>
+                <input type="text" id="nome" asp-for="Name" class="form-control form-control-lg" placeholder="Digite o Nome do Fornecedor" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">CNPJ</label>
+                <input id="registration" type="text" asp-for="CNPJ" class="form-control" placeholder="Digite o CNPJ" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Endereço</label>
+                <input id="registration" type="text" asp-for="Address" class="form-control" placeholder="Digite o Endereço" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Email</label>
+                <input id="registration" type="email" asp-for="Email" class="form-control" placeholder="Digite o Email" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Inscrição Estadual</label>
+                <input id="registration" type="text" asp-for="StateRegistration" class="form-control" placeholder="Digite a Inscrição Estadual" required>
+            </div>
+
+            <div class="col-4 mb-2">
+                <label for="registration" class="col-form-label col-form-label-lg">Inscrição Municipal</label>
+                <input id="registration" type="text" asp-for="CountyRegistration" class="form-control" placeholder="Digite a Inscrição Municipal" required>
+            </div>
+
+
+            <div>
+                <button type="submit" class="btn btn-md btn-primary">Adicionar</button>
+            </div>
+
+        </div>
+
+    </form>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        (() => {
+            'use strict'
+
+            const forms = document.querySelectorAll('.needs-validation')
+
+            Array.from(forms).forEach(form => {
+                form.addEventListener('submit', event => {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })
+
+        
+
+    </script>
+
+}

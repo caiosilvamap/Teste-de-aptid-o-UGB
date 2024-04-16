@@ -1,0 +1,64 @@
+﻿@using SolicitacaoDeMateriais.ViewModels;
+
+@model List<StockDisplayViewModel>
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h5 class="m-2 p-2 font-weight-bold text-primary text-center">Estoque de Produtos</h5>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">
+                <div class="col-md-6 btn-group gap-2 text-start" role=group>
+                    <a asp-controller="StockEntry" asp-action="CreateView" role="button" class="btn btn-primary rounded" type="button">Entrada de Produto</a>
+                    <a asp-controller="StockExit" asp-action="CreateView" role="button" class="btn btn-success rounded" type="button">Saída de Produto</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="input-group text-end">
+                        <input type="search" id="search" class="form-control form-control-sm" placeholder="Pesquisa...">
+                        <button id="searchButton" class="btn btn-primary" type="button">Pesquisar</button>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover" id="dataTable">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Id</th>
+                            <th>Código EAN</th>
+                            <th>Produto</th>
+                            <th>Fornecedor</th>
+                            <th>Cota Mín. Estoque</th>
+                            <th>Qtd. Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (StockDisplayViewModel stock in Model)
+                            {
+                                <tr>
+                                    <td>@stock.Id</td>
+                                    <td>@stock.ProductEANcode</td>
+                                    <td>@stock.ProductName</td>
+                                    <td>@stock.ProductSupplierName</td>
+                                    <td>@stock.MinimumStock</td>
+                                    <td>@stock.Quantity</td>                                  
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
